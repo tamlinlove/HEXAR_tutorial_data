@@ -1,0 +1,3434 @@
+{
+  "/rosout": {
+    "1753872693831184312": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872684,
+        "nanosec": 308089967
+      }
+    },
+    "1753872693831190239": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872685,
+        "nanosec": 312765674
+      }
+    },
+    "1753872693831196099": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872686,
+        "nanosec": 313618348
+      }
+    },
+    "1753872693831202581": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872687,
+        "nanosec": 315961346
+      }
+    },
+    "1753872693831209749": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 153,
+      "msg": "Skill completed successfully",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872688,
+        "nanosec": 214156976
+      }
+    },
+    "1753872693833710486": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872683,
+        "nanosec": 943949595
+      }
+    },
+    "1753872693833777981": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872685,
+        "nanosec": 871039773
+      }
+    },
+    "1753872693833785457": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872686,
+        "nanosec": 13468025
+      }
+    },
+    "1753872693833875202": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872687,
+        "nanosec": 317621523
+      }
+    },
+    "1753872693833931700": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872687,
+        "nanosec": 465704150
+      }
+    },
+    "1753872693834055693": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872687,
+        "nanosec": 736179912
+      }
+    },
+    "1753872693834068993": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872687,
+        "nanosec": 871890600
+      }
+    },
+    "1753872693834094254": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872688,
+        "nanosec": 36459837
+      }
+    },
+    "1753872693834302730": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872688,
+        "nanosec": 123828709
+      }
+    },
+    "1753872693834494022": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<rcsaz> (param name: human_description_rcsaz)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872684,
+        "nanosec": 320065743
+      }
+    },
+    "1753872693834518994": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872687,
+        "nanosec": 324519518
+      }
+    },
+    "1753872693834529465": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<npbwc> (param name: human_description_npbwc)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872687,
+        "nanosec": 983630584
+      }
+    },
+    "1753872693834537223": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872688,
+        "nanosec": 343666120
+      }
+    },
+    "1753872693834544114": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<tfhip> (param name: human_description_tfhip)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872689,
+        "nanosec": 316730966
+      }
+    },
+    "1753872693834551072": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872689,
+        "nanosec": 534919278
+      }
+    },
+    "1753872693834558478": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered rcsaz",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872690,
+        "nanosec": 805314065
+      }
+    },
+    "1753872693834565413": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered dimrf",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872691,
+        "nanosec": 519732379
+      }
+    },
+    "1753872693834572855": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered vhqrm",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872692,
+        "nanosec": 555611175
+      }
+    },
+    "1753872693834581251": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered tmpaw",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872693,
+        "nanosec": 402735754
+      }
+    },
+    "1753872693834588929": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered npbwc",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872693,
+        "nanosec": 422622210
+      }
+    },
+    "1753872711552129009": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_intent",
+      "level": 20,
+      "line": 513,
+      "msg": "Received an intent __intent_start_activity__ with data {\"goal\": \"fetch me a book from the living room\", \"suggested_action_plan\": [{\"skill\": \"say\", \"params\": {\"input\": \"Sure, I'll fetch you a book from the living room.\"}}, {\"skill\": \"navigate_to_zone\", \"params\": {\"location\": \"living_room\"}}, {\"skill\": \"ask_human_for_help\", \"params\": {\"question\": \"Hello, can you pick a book and place it on my tray?\"}}, {\"skill\": \"navigate_to_zone\", \"params\": {\"location\": \"dining_room\"}}, {\"skill\": \"say\", \"params\": {\"input\": \"Here is your book.\"}}]}",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872711,
+        "nanosec": 551924476
+      }
+    },
+    "1753872712553334613": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] skill: say\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 553128977
+      }
+    },
+    "1753872712553801497": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - expected_params: ['input']\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 553703005
+      }
+    },
+    "1753872712554295665": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - received_params: {'input': \"Sure, I'll fetch you a book from the living room.\"}\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 554170081
+      }
+    },
+    "1753872712554774210": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] skill: navigate_to_zone\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 554699015
+      }
+    },
+    "1753872712555047819": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - expected_params: ['location']\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 555004466
+      }
+    },
+    "1753872712555315264": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - received_params: {'location': 'living_room'}\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 555272127
+      }
+    },
+    "1753872712555574223": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] skill: ask_human_for_help\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 555538585
+      }
+    },
+    "1753872712555906957": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - expected_params: ['question']\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 555857114
+      }
+    },
+    "1753872712556215924": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - received_params: {'question': 'Hello, can you pick a book and place it on my tray?'}\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 556168455
+      }
+    },
+    "1753872712556549991": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] skill: navigate_to_zone\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 556494038
+      }
+    },
+    "1753872712556951764": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - expected_params: ['location']\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 556903837
+      }
+    },
+    "1753872712557349915": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - received_params: {'location': 'dining_room'}\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 557294018
+      }
+    },
+    "1753872712557760527": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] skill: say\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 557687620
+      }
+    },
+    "1753872712558064954": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - expected_params: ['input']\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 558009890
+      }
+    },
+    "1753872712558369807": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - received_params: {'input': 'Here is your book.'}\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 558317086
+      }
+    },
+    "1753872712558904730": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Added task from intent: fetch me a book from the living room\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 558831088
+      }
+    },
+    "1753872712559395242": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_intent",
+      "level": 20,
+      "line": 536,
+      "msg": "Task: fetch me a book from the living room with id UZpMIZ8SLUBHP87R \nSkills:\nSkill type: say\nSkill params: {'input': \"Sure, I'll fetch you a book from the living room.\"}\nSkill uuid: None\nSkill handle: None\n--\nSkill type: navigate_to_zone\nSkill params: {'location': 'living_room'}\nSkill uuid: None\nSkill handle: None\n--\nSkill type: ask_human_for_help\nSkill params: {'question': 'Hello, can you pick a book and place it on my tray?'}\nSkill uuid: None\nSkill handle: None\n--\nSkill type: navigate_to_zone\nSkill params: {'location': 'dining_room'}\nSkill uuid: None\nSkill handle: None\n--\nSkill type: say\nSkill params: {'input': 'Here is your book.'}\nSkill uuid: None\nSkill handle: None\n--\nParams to evaluate: {}",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 559264492
+      }
+    },
+    "1753872712562022639": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "chat_busy_response_callback",
+      "level": 20,
+      "line": 671,
+      "msg": "Goal to start \"busy\" chat accepted",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 561934011
+      }
+    },
+    "1753872712598056988": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] current task: fetch me a book from the living room\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 597953442
+      }
+    },
+    "1753872712602416098": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: ZXtaVk2i4s3rI2Vf",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 602250035
+      }
+    },
+    "1753872712698761439": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill say (uuid ZXtaVk2i4s3rI2Vf)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872712,
+        "nanosec": 698595426
+      }
+    },
+    "1753872715998083046": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <ZXtaVk2i4s3rI2Vf> finished with result:<0 , >\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872715,
+        "nanosec": 997987045
+      }
+    },
+    "1753872716098851067": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Going to living_room\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 98774362
+      }
+    },
+    "1753872716099312326": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "handle_goal",
+      "level": 20,
+      "line": 87,
+      "msg": "SkillNavigateToZone received a new goal",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 99217743
+      }
+    },
+    "1753872716104470066": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: N6whYFqc0onmwzbQ",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 104389577
+      }
+    },
+    "1753872716134553806": {
+      "file": "./src/controller_server.cpp",
+      "function": "computeControl",
+      "level": 20,
+      "line": 359,
+      "msg": "Received a goal, begin computing control effort.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 134375518
+      }
+    },
+    "1753872716198622724": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill navigate_to_zone (uuid N6whYFqc0onmwzbQ)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 198497114
+      }
+    },
+    "1753872716201622316": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 201529054
+      }
+    },
+    "1753872716274789024": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 274584458
+      }
+    },
+    "1753872716414695842": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 414575356
+      }
+    },
+    "1753872716534699688": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 534563401
+      }
+    },
+    "1753872716654816703": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 654576676
+      }
+    },
+    "1753872716794657752": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 794572726
+      }
+    },
+    "1753872716914764134": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872716,
+        "nanosec": 914581752
+      }
+    },
+    "1753872717054884547": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 54595856
+      }
+    },
+    "1753872717174720013": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 174572190
+      }
+    },
+    "1753872717202382520": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 202263402
+      }
+    },
+    "1753872717314846845": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 314582698
+      }
+    },
+    "1753872717405604948": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<qjcsr> (param name: human_description_qjcsr)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 405510328
+      }
+    },
+    "1753872717434695280": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 434576799
+      }
+    },
+    "1753872717554730630": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 554577867
+      }
+    },
+    "1753872717575741891": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 575622209
+      }
+    },
+    "1753872717686549375": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 686459146
+      }
+    },
+    "1753872717843835179": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 842137019
+      }
+    },
+    "1753872717983667801": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872717,
+        "nanosec": 983077329
+      }
+    },
+    "1753872718203474296": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872718,
+        "nanosec": 203337980
+      }
+    },
+    "1753872718211102973": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872718,
+        "nanosec": 209935743
+      }
+    },
+    "1753872718345747857": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872718,
+        "nanosec": 345545897
+      }
+    },
+    "1753872718462964298": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872718,
+        "nanosec": 462709305
+      }
+    },
+    "1753872718604101279": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872718,
+        "nanosec": 603893262
+      }
+    },
+    "1753872718724099275": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872718,
+        "nanosec": 723873277
+      }
+    },
+    "1753872718863956730": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872718,
+        "nanosec": 863855814
+      }
+    },
+    "1753872718984128173": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872718,
+        "nanosec": 983867491
+      }
+    },
+    "1753872719124114029": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872719,
+        "nanosec": 123836177
+      }
+    },
+    "1753872719204689798": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872719,
+        "nanosec": 204504618
+      }
+    },
+    "1753872719243975383": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872719,
+        "nanosec": 243857429
+      }
+    },
+    "1753872719383957750": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872719,
+        "nanosec": 383845279
+      }
+    },
+    "1753872719503961515": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872719,
+        "nanosec": 503858592
+      }
+    },
+    "1753872719643959154": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872719,
+        "nanosec": 643855574
+      }
+    },
+    "1753872719763990085": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872719,
+        "nanosec": 763859863
+      }
+    },
+    "1753872719903981179": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872719,
+        "nanosec": 903857642
+      }
+    },
+    "1753872720023975177": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 23808899
+      }
+    },
+    "1753872720164025998": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 163865475
+      }
+    },
+    "1753872720205395296": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 205286581
+      }
+    },
+    "1753872720283993233": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 283874947
+      }
+    },
+    "1753872720424028358": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 423870435
+      }
+    },
+    "1753872720543994707": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 543861714
+      }
+    },
+    "1753872720683975576": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 683861678
+      }
+    },
+    "1753872720722216271": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<rpnay> (param name: human_description_rpnay)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 722073364
+      }
+    },
+    "1753872720803972849": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 803856073
+      }
+    },
+    "1753872720893755570": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 893636745
+      }
+    },
+    "1753872720948488330": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872720,
+        "nanosec": 947907876
+      }
+    },
+    "1753872721080688216": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872721,
+        "nanosec": 80496206
+      }
+    },
+    "1753872721206535122": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872721,
+        "nanosec": 206079764
+      }
+    },
+    "1753872721220243565": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872721,
+        "nanosec": 219940343
+      }
+    },
+    "1753872721380590555": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872721,
+        "nanosec": 380374077
+      }
+    },
+    "1753872721514652821": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872721,
+        "nanosec": 514542929
+      }
+    },
+    "1753872721636583428": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872721,
+        "nanosec": 636347031
+      }
+    },
+    "1753872721772795822": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872721,
+        "nanosec": 772660586
+      }
+    },
+    "1753872721913000405": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872721,
+        "nanosec": 912865331
+      }
+    },
+    "1753872722032996719": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 32756063
+      }
+    },
+    "1753872722172844432": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 172745800
+      }
+    },
+    "1753872722210800201": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 210691825
+      }
+    },
+    "1753872722278129787": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered tfhip",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 277908266
+      }
+    },
+    "1753872722292884589": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 292745964
+      }
+    },
+    "1753872722412903099": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 412790110
+      }
+    },
+    "1753872722553011151": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 552733025
+      }
+    },
+    "1753872722692909355": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 692750168
+      }
+    },
+    "1753872722813009639": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 812808321
+      }
+    },
+    "1753872722953116020": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872722,
+        "nanosec": 952748369
+      }
+    },
+    "1753872723072855791": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 72741992
+      }
+    },
+    "1753872723211460725": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 211365538
+      }
+    },
+    "1753872723212932570": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 212756976
+      }
+    },
+    "1753872723250853880": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered qjcsr",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 250711845
+      }
+    },
+    "1753872723332890632": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 332744912
+      }
+    },
+    "1753872723472848277": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 472742060
+      }
+    },
+    "1753872723592924604": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 592745888
+      }
+    },
+    "1753872723712897976": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 712753733
+      }
+    },
+    "1753872723853499305": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 852753709
+      }
+    },
+    "1753872723992934520": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872723,
+        "nanosec": 992751869
+      }
+    },
+    "1753872724112938706": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 112754195
+      }
+    },
+    "1753872724212145348": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 212044370
+      }
+    },
+    "1753872724253036217": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 252751565
+      }
+    },
+    "1753872724372884898": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 372748548
+      }
+    },
+    "1753872724424632018": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<kedbg> (param name: human_description_kedbg)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 424462280
+      }
+    },
+    "1753872724512931399": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 512758853
+      }
+    },
+    "1753872724609192258": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 609066032
+      }
+    },
+    "1753872724644098040": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 643928274
+      }
+    },
+    "1753872724800937721": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 800827733
+      }
+    },
+    "1753872724908844121": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872724,
+        "nanosec": 908723372
+      }
+    },
+    "1753872725114927782": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 153,
+      "msg": "Skill completed successfully",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872725,
+        "nanosec": 114797085
+      }
+    },
+    "1753872725129597909": {
+      "file": "/opt/ros/humble/include/nav2_util/simple_action_server.hpp",
+      "function": "warn_msg",
+      "level": 30,
+      "line": 605,
+      "msg": "[follow_path] [ActionServer] Aborting handle.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872725,
+        "nanosec": 129175681
+      }
+    },
+    "1753872725204690273": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <N6whYFqc0onmwzbQ> finished with result:<0 , Skill completed successfully>\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872725,
+        "nanosec": 204559753
+      }
+    },
+    "1753872725337698812": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: 5asAcQEqqhMLLrv9",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872725,
+        "nanosec": 337541855
+      }
+    },
+    "1753872725404167684": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill ask_human_for_help (uuid 5asAcQEqqhMLLrv9)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872725,
+        "nanosec": 402804999
+      }
+    },
+    "1753872726298589601": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered rpnay",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872726,
+        "nanosec": 298448475
+      }
+    },
+    "1753872730269411044": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered kedbg",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872730,
+        "nanosec": 269183298
+      }
+    },
+    "1753872755398739990": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <5asAcQEqqhMLLrv9> finished with result:<255 , Failed to find the person.>\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 398544247
+      }
+    },
+    "1753872755399057039": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Removing skill and aborting task\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 398989012
+      }
+    },
+    "1753872755400175833": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Added recovery task: inform of task failure\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 400057237
+      }
+    },
+    "1753872755402977975": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "execute",
+      "level": 20,
+      "line": 1152,
+      "msg": "Task: inform of task failure with id notdh0OWuapzb7zT \nSkills:\nSkill type: navigate_to_zone\nSkill params: {'location': 'kitchen'}\nSkill uuid: None\nSkill handle: None\n--\nSkill type: say\nSkill params: {'input': 'Sorry, I was not able to perform the task '}\nSkill uuid: None\nSkill handle: None\n--\nParams to evaluate: {'location': None, 'input': None}",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 402872273
+      }
+    },
+    "1753872755498318019": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] current task: inform of task failure\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 498172784
+      }
+    },
+    "1753872755499446518": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Going to kitchen\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 499372844
+      }
+    },
+    "1753872755499730927": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "handle_goal",
+      "level": 20,
+      "line": 87,
+      "msg": "SkillNavigateToZone received a new goal",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 499640400
+      }
+    },
+    "1753872755505644672": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: hxJuea0Pvu23jt59",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 505558977
+      }
+    },
+    "1753872755538781804": {
+      "file": "./src/controller_server.cpp",
+      "function": "computeControl",
+      "level": 20,
+      "line": 359,
+      "msg": "Received a goal, begin computing control effort.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 538661125
+      }
+    },
+    "1753872755598445358": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill navigate_to_zone (uuid hxJuea0Pvu23jt59)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 598281786
+      }
+    },
+    "1753872755601728804": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 601633354
+      }
+    },
+    "1753872755679093614": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 678863395
+      }
+    },
+    "1753872755798948266": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 798824404
+      }
+    },
+    "1753872755938947602": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872755,
+        "nanosec": 938822048
+      }
+    },
+    "1753872756058939449": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872756,
+        "nanosec": 58822529
+      }
+    },
+    "1753872756198990088": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872756,
+        "nanosec": 198825061
+      }
+    },
+    "1753872756319003615": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872756,
+        "nanosec": 318829479
+      }
+    },
+    "1753872756458933041": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872756,
+        "nanosec": 458823223
+      }
+    },
+    "1753872756579015802": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872756,
+        "nanosec": 578830067
+      }
+    },
+    "1753872756602541236": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872756,
+        "nanosec": 602383380
+      }
+    },
+    "1753872756718962678": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872756,
+        "nanosec": 718822021
+      }
+    },
+    "1753872756838910495": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872756,
+        "nanosec": 838820313
+      }
+    },
+    "1753872756979082067": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872756,
+        "nanosec": 978840484
+      }
+    },
+    "1753872757118911948": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872757,
+        "nanosec": 118818854
+      }
+    },
+    "1753872757238976378": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872757,
+        "nanosec": 238832841
+      }
+    },
+    "1753872757358951297": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872757,
+        "nanosec": 358822334
+      }
+    },
+    "1753872757499197833": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872757,
+        "nanosec": 498943315
+      }
+    },
+    "1753872757603444015": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872757,
+        "nanosec": 603206693
+      }
+    },
+    "1753872757618915607": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872757,
+        "nanosec": 618819033
+      }
+    },
+    "1753872757759050615": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872757,
+        "nanosec": 758836655
+      }
+    },
+    "1753872757898941685": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872757,
+        "nanosec": 898822284
+      }
+    },
+    "1753872758018926113": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 18820989
+      }
+    },
+    "1753872758093299618": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<uktxp> (param name: human_description_uktxp)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 93130441
+      }
+    },
+    "1753872758158933286": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 158822107
+      }
+    },
+    "1753872758271208551": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 271063918
+      }
+    },
+    "1753872758279250160": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 278950122
+      }
+    },
+    "1753872758432014238": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 431949640
+      }
+    },
+    "1753872758544127415": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 543904457
+      }
+    },
+    "1753872758618681983": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 617483091
+      }
+    },
+    "1753872758679148343": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 679009693
+      }
+    },
+    "1753872758820271363": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 820037859
+      }
+    },
+    "1753872758872064315": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<luymo> (param name: human_description_luymo)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 871904334
+      }
+    },
+    "1753872758938627888": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872758,
+        "nanosec": 938452610
+      }
+    },
+    "1753872759058692500": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 58498029
+      }
+    },
+    "1753872759123796414": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 123624885
+      }
+    },
+    "1753872759198815833": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 198539452
+      }
+    },
+    "1753872759341107573": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 341015262
+      }
+    },
+    "1753872759465991413": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 461687838
+      }
+    },
+    "1753872759618153334": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 618048166
+      }
+    },
+    "1753872759622650813": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 622362788
+      }
+    },
+    "1753872759728062202": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 727892190
+      }
+    },
+    "1753872759761717512": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<nhsay> (param name: human_description_nhsay)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 761552491
+      }
+    },
+    "1753872759868422639": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 868029692
+      }
+    },
+    "1753872759988015675": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 987877576
+      }
+    },
+    "1753872759989209427": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872759,
+        "nanosec": 989101121
+      }
+    },
+    "1753872760067483723": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<oramb> (param name: human_description_oramb)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 67020700
+      }
+    },
+    "1753872760128010592": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 127883942
+      }
+    },
+    "1753872760300485724": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 300314966
+      }
+    },
+    "1753872760317647916": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 317479082
+      }
+    },
+    "1753872760404462806": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 404319352
+      }
+    },
+    "1753872760472980673": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<lafqn> (param name: human_description_lafqn)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 472839827
+      }
+    },
+    "1753872760540490716": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 540327264
+      }
+    },
+    "1753872760640664825": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 640519936
+      }
+    },
+    "1753872760709432736": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 709285060
+      }
+    },
+    "1753872760833019416": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 832900586
+      }
+    },
+    "1753872760842477045": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 842179501
+      }
+    },
+    "1753872760980897880": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872760,
+        "nanosec": 980642682
+      }
+    },
+    "1753872761121907583": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872761,
+        "nanosec": 121844141
+      }
+    },
+    "1753872761266991224": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872761,
+        "nanosec": 265617020
+      }
+    },
+    "1753872761407225300": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872761,
+        "nanosec": 406538083
+      }
+    },
+    "1753872761543476205": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872761,
+        "nanosec": 543133078
+      }
+    },
+    "1753872761641797298": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 137,
+      "msg": "Waiting for NavigateToZone to finish...",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872761,
+        "nanosec": 641372014
+      }
+    },
+    "1753872761782436359": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872761,
+        "nanosec": 782310577
+      }
+    },
+    "1753872761971200437": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872761,
+        "nanosec": 923792961
+      }
+    },
+    "1753872762050118037": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 50028044
+      }
+    },
+    "1753872762165291683": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 164405634
+      }
+    },
+    "1753872762267222400": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 267075721
+      }
+    },
+    "1753872762397490476": {
+      "file": "./src/controller_server.cpp",
+      "function": "updateGlobalPath",
+      "level": 20,
+      "line": 536,
+      "msg": "Passing new path to controller.",
+      "name": "controller_server",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 397414068
+      }
+    },
+    "1753872762517637927": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 153,
+      "msg": "Skill completed successfully",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 517533082
+      }
+    },
+    "1753872762535697942": {
+      "file": "./src/planner_server.cpp",
+      "function": "isCancelRequested",
+      "level": 20,
+      "line": 281,
+      "msg": "Goal was canceled. Canceling planning action.",
+      "name": "planner_server",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 535445687
+      }
+    },
+    "1753872762606958836": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <hxJuea0Pvu23jt59> finished with result:<0 , Skill completed successfully>\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 606796481
+      }
+    },
+    "1753872762741008510": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: mF6uWZxzTNfh5l4Q",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 740897380
+      }
+    },
+    "1753872762805805314": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill say (uuid mF6uWZxzTNfh5l4Q)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 804214908
+      }
+    },
+    "1753872762923065635": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<visdf> (param name: human_description_visdf)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872762,
+        "nanosec": 922556534
+      }
+    },
+    "1753872763155678969": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872763,
+        "nanosec": 155573933
+      }
+    },
+    "1753872764544600976": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<zvaio> (param name: human_description_zvaio)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872764,
+        "nanosec": 544485009
+      }
+    },
+    "1753872764756353459": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872764,
+        "nanosec": 756251154
+      }
+    },
+    "1753872764989374719": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered uktxp",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872764,
+        "nanosec": 989203823
+      }
+    },
+    "1753872765069295102": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered luymo",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872765,
+        "nanosec": 69073611
+      }
+    },
+    "1753872765604136605": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered nhsay",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872765,
+        "nanosec": 604013755
+      }
+    },
+    "1753872765664659476": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered lafqn",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872765,
+        "nanosec": 661256576
+      }
+    },
+    "1753872766698924560": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <mF6uWZxzTNfh5l4Q> finished with result:<0 , >\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872766,
+        "nanosec": 698781728
+      }
+    },
+    "1753872766771225351": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<ikpqm> (param name: human_description_ikpqm)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872766,
+        "nanosec": 771105211
+      }
+    },
+    "1753872766798430001": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Task achieved: inform of task failure\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753872766,
+        "nanosec": 798242951
+      }
+    },
+    "1753872766949865993": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872766,
+        "nanosec": 949750356
+      }
+    },
+    "1753872767679945851": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered visdf",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872767,
+        "nanosec": 679829888
+      }
+    },
+    "1753872768193767416": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<cbaes> (param name: human_description_cbaes)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872768,
+        "nanosec": 193651924
+      }
+    },
+    "1753872768406838386": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872768,
+        "nanosec": 406732405
+      }
+    },
+    "1753872769746276593": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered oramb",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753872769,
+        "nanosec": 746040612
+      }
+    }
+  },
+  "/task_info": {
+    "1753872712598296729": {
+      "data": {
+        "task_id": "UZpMIZ8SLUBHP87R",
+        "instruction": "fetch me a book from the living room",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sure, I'll fetch you a book from the living room."
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "living_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "ask_human_for_help",
+            "params": {
+              "question": "Hello, can you pick a book and place it on my tray?"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "dining_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Here is your book."
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872712598337224": {
+      "data": {
+        "task_id": "UZpMIZ8SLUBHP87R",
+        "instruction": "fetch me a book from the living room",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sure, I'll fetch you a book from the living room."
+            },
+            "status": "Running",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "living_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "ask_human_for_help",
+            "params": {
+              "question": "Hello, can you pick a book and place it on my tray?"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "dining_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Here is your book."
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872715998305190": {
+      "data": {
+        "task_id": "UZpMIZ8SLUBHP87R",
+        "instruction": "fetch me a book from the living room",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sure, I'll fetch you a book from the living room."
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "living_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "ask_human_for_help",
+            "params": {
+              "question": "Hello, can you pick a book and place it on my tray?"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "dining_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Here is your book."
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872716097931437": {
+      "data": {
+        "task_id": "UZpMIZ8SLUBHP87R",
+        "instruction": "fetch me a book from the living room",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sure, I'll fetch you a book from the living room."
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "living_room"
+            },
+            "status": "Running",
+            "error_msg": ""
+          },
+          {
+            "skill": "ask_human_for_help",
+            "params": {
+              "question": "Hello, can you pick a book and place it on my tray?"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "dining_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Here is your book."
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872725205225841": {
+      "data": {
+        "task_id": "UZpMIZ8SLUBHP87R",
+        "instruction": "fetch me a book from the living room",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sure, I'll fetch you a book from the living room."
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "living_room"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "ask_human_for_help",
+            "params": {
+              "question": "Hello, can you pick a book and place it on my tray?"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "dining_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Here is your book."
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872725299545268": {
+      "data": {
+        "task_id": "UZpMIZ8SLUBHP87R",
+        "instruction": "fetch me a book from the living room",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sure, I'll fetch you a book from the living room."
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "living_room"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "ask_human_for_help",
+            "params": {
+              "question": "Hello, can you pick a book and place it on my tray?"
+            },
+            "status": "Running",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "dining_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Here is your book."
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872755399428278": {
+      "data": {
+        "task_id": "UZpMIZ8SLUBHP87R",
+        "instruction": "fetch me a book from the living room",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sure, I'll fetch you a book from the living room."
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "living_room"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "ask_human_for_help",
+            "params": {
+              "question": "Hello, can you pick a book and place it on my tray?"
+            },
+            "status": "failed",
+            "error_msg": "Failed to find the person."
+          },
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "dining_room"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Here is your book."
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872755498782754": {
+      "data": {
+        "task_id": "notdh0OWuapzb7zT",
+        "instruction": "",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "kitchen"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sorry, I was not able to perform the task "
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872755498884906": {
+      "data": {
+        "task_id": "notdh0OWuapzb7zT",
+        "instruction": "",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "kitchen"
+            },
+            "status": "Running",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sorry, I was not able to perform the task "
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872762613657550": {
+      "data": {
+        "task_id": "notdh0OWuapzb7zT",
+        "instruction": "",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "kitchen"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sorry, I was not able to perform the task "
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872762707816708": {
+      "data": {
+        "task_id": "notdh0OWuapzb7zT",
+        "instruction": "",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "kitchen"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sorry, I was not able to perform the task "
+            },
+            "status": "Running",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753872766699470876": {
+      "data": {
+        "task_id": "notdh0OWuapzb7zT",
+        "instruction": "",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "navigate_to_zone",
+            "params": {
+              "location": "kitchen"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "Sorry, I was not able to perform the task "
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          }
+        ]
+      }
+    }
+  },
+  "/episodic_memory": {
+    "1753872725330425090": {
+      "header": "std_msgs.msg.Header(stamp=builtin_interfaces.msg.Time(sec=1753872725, nanosec=329226397), frame_id='')",
+      "status": [
+        "diagnostic_msgs.msg.DiagnosticStatus(level=b'\\x00', name='/skills/skill_ask_human_for_help', message='Running skill', hardware_id='', values=[diagnostic_msgs.msg.KeyValue(key='Module name', value='skill_ask_human_for_help'), diagnostic_msgs.msg.KeyValue(key='InitialState', value='True')])"
+      ]
+    },
+    "1753872725330481948": {
+      "header": "std_msgs.msg.Header(stamp=builtin_interfaces.msg.Time(sec=1753872725, nanosec=329819250), frame_id='')",
+      "status": [
+        "diagnostic_msgs.msg.DiagnosticStatus(level=b'\\x00', name='/skills/skill_ask_human_for_help', message='Setting initial parameters', hardware_id='', values=[diagnostic_msgs.msg.KeyValue(key='Module name', value='skill_ask_human_for_help'), diagnostic_msgs.msg.KeyValue(key='person_approached', value='False')])"
+      ]
+    },
+    "1753872725339704106": {
+      "header": "std_msgs.msg.Header(stamp=builtin_interfaces.msg.Time(sec=1753872725, nanosec=339421213), frame_id='')",
+      "status": [
+        "diagnostic_msgs.msg.DiagnosticStatus(level=b'\\x00', name='/skills/skill_ask_human_for_help', message='Looking for person', hardware_id='', values=[diagnostic_msgs.msg.KeyValue(key='Module name', value='skill_ask_human_for_help'), diagnostic_msgs.msg.KeyValue(key='DetectState', value='True')])"
+      ]
+    },
+    "1753872755382395662": {
+      "header": "std_msgs.msg.Header(stamp=builtin_interfaces.msg.Time(sec=1753872755, nanosec=382149824), frame_id='')",
+      "status": [
+        "diagnostic_msgs.msg.DiagnosticStatus(level=b'\\x00', name='/skills/skill_ask_human_for_help', message='Error: No person detected', hardware_id='', values=[diagnostic_msgs.msg.KeyValue(key='Module name', value='skill_ask_human_for_help'), diagnostic_msgs.msg.KeyValue(key='person_detected', value='False')])"
+      ]
+    },
+    "1753872755382576829": {
+      "header": "std_msgs.msg.Header(stamp=builtin_interfaces.msg.Time(sec=1753872755, nanosec=382441253), frame_id='')",
+      "status": [
+        "diagnostic_msgs.msg.DiagnosticStatus(level=b'\\x00', name='/skills/skill_ask_human_for_help', message='Person standard deviation RMS calculated', hardware_id='', values=[diagnostic_msgs.msg.KeyValue(key='Module name', value='skill_ask_human_for_help'), diagnostic_msgs.msg.KeyValue(key='person_std_rms', value='0')])"
+      ]
+    },
+    "1753872755382663087": {
+      "header": "std_msgs.msg.Header(stamp=builtin_interfaces.msg.Time(sec=1753872755, nanosec=382590834), frame_id='')",
+      "status": [
+        "diagnostic_msgs.msg.DiagnosticStatus(level=b'\\x00', name='/skills/skill_ask_human_for_help', message='Error: Detection unstable', hardware_id='', values=[diagnostic_msgs.msg.KeyValue(key='Module name', value='skill_ask_human_for_help'), diagnostic_msgs.msg.KeyValue(key='detection_stable', value='False')])"
+      ]
+    },
+    "1753872755382759025": {
+      "header": "std_msgs.msg.Header(stamp=builtin_interfaces.msg.Time(sec=1753872755, nanosec=382681338), frame_id='')",
+      "status": [
+        "diagnostic_msgs.msg.DiagnosticStatus(level=b'\\x00', name='/skills/skill_ask_human_for_help', message='Error: Task Failure', hardware_id='', values=[diagnostic_msgs.msg.KeyValue(key='Module name', value='skill_ask_human_for_help'), diagnostic_msgs.msg.KeyValue(key='SkillFailed', value='True')])"
+      ]
+    }
+  }
+}
