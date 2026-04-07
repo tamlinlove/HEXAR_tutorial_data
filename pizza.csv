@@ -1,0 +1,9 @@
+Pizza,Flour,Yeast,Water,Salt,Olive Oil,Tomato,Mozzarella,Basil,Garlic,Oregano,Salami,Ham,Pineapple,Anchovies
+Margherita,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No
+Marinara,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No
+Diavola,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No
+Hawaiian,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No
+Romana,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes
+Bianca,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No
+Napoletana,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes
+Bianca con Mozzarella,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No
