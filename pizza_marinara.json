@@ -341,7 +341,7 @@
       "function": "run_skill",
       "level": 20,
       "line": 110,
-      "msg": "Ingredients: {'Flour': 'Yes', 'Yeast': 'Yes', 'Water': 'Yes', 'Salt': 'Yes', 'Olive Oil': 'Yes', 'Tomato': 'Yes', 'Mozzarella': 'No', 'Basil': 'No', 'Garlic': 'Yes', 'Oregano': 'Yes', 'Salami': 'No', 'Ham': 'No', 'Pineapple': 'Yes', 'Anchovies': 'No'}",
+      "msg": "Ingredients: {\"Flour\": \"Yes\", \"Yeast\": \"Yes\", \"Water\": \"Yes\", \"Salt\": \"Yes\", \"Olive Oil\": \"Yes\", \"Tomato\": \"Yes\", \"Mozzarella\": \"No\", \"Basil\": \"No\", \"Garlic\": \"Yes\", \"Oregano\": \"Yes\", \"Salami\": \"No\", \"Ham\": \"No\", \"Pineapple\": \"Yes\", \"Anchovies\": \"No\"}",
       "name": "skill_recommend_pizza",
       "stamp": {
         "sec": 1753971226,

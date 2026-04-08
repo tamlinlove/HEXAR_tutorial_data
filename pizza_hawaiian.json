@@ -1,174 +1,6 @@
 {
   "/rosout": {
-    "1753971098326206740": {
-      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
-      "function": "skeleton_generation",
-      "level": 20,
-      "line": 395,
-      "msg": "Setting URDF description for body<thkfd> (param name: human_description_thkfd)",
-      "name": "hri_body_detect",
-      "stamp": {
-        "sec": 1753971093,
-        "nanosec": 870389793
-      }
-    },
-    "1753971098326238787": {
-      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
-      "function": "skeleton_generation",
-      "level": 20,
-      "line": 437,
-      "msg": "Spawning a instance of robot_state_publisher for this body...",
-      "name": "hri_body_detect",
-      "stamp": {
-        "sec": 1753971094,
-        "nanosec": 32741855
-      }
-    },
-    "1753971099234117155": {
-      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
-      "function": "skeleton_generation",
-      "level": 20,
-      "line": 395,
-      "msg": "Setting URDF description for body<dvrbo> (param name: human_description_dvrbo)",
-      "name": "hri_body_detect",
-      "stamp": {
-        "sec": 1753971099,
-        "nanosec": 233978647
-      }
-    },
-    "1753971099401401424": {
-      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
-      "function": "skeleton_generation",
-      "level": 20,
-      "line": 437,
-      "msg": "Spawning a instance of robot_state_publisher for this body...",
-      "name": "hri_body_detect",
-      "stamp": {
-        "sec": 1753971099,
-        "nanosec": 401297450
-      }
-    },
-    "1753971099946499999": {
-      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
-      "function": "unregister",
-      "level": 20,
-      "line": 459,
-      "msg": "unregistered thkfd",
-      "name": "hri_body_detect",
-      "stamp": {
-        "sec": 1753971099,
-        "nanosec": 946371035
-      }
-    },
-    "1753971101853198315": {
-      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
-      "function": "skeleton_generation",
-      "level": 20,
-      "line": 395,
-      "msg": "Setting URDF description for body<snpco> (param name: human_description_snpco)",
-      "name": "hri_body_detect",
-      "stamp": {
-        "sec": 1753971101,
-        "nanosec": 853066359
-      }
-    },
-    "1753971102037482504": {
-      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
-      "function": "skeleton_generation",
-      "level": 20,
-      "line": 437,
-      "msg": "Spawning a instance of robot_state_publisher for this body...",
-      "name": "hri_body_detect",
-      "stamp": {
-        "sec": 1753971102,
-        "nanosec": 37350318
-      }
-    },
-    "1753971104324761991": {
-      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
-      "function": "unregister",
-      "level": 20,
-      "line": 459,
-      "msg": "unregistered dvrbo",
-      "name": "hri_body_detect",
-      "stamp": {
-        "sec": 1753971104,
-        "nanosec": 324635078
-      }
-    },
-    "1753971108280616611": {
-      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
-      "function": "unregister",
-      "level": 20,
-      "line": 459,
-      "msg": "unregistered snpco",
-      "name": "hri_body_detect",
-      "stamp": {
-        "sec": 1753971108,
-        "nanosec": 280351725
-      }
-    },
-    "1753971112302248350": {
-      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
-      "function": "on_intent",
-      "level": 20,
-      "line": 513,
-      "msg": "Received an intent __intent_start_activity__ with data {\"goal\": \"i'm hungry which pizza can i make\", \"suggested_action_plan\": [{\"skill\": \"recommend_pizza\", \"params\": {\"request\": \"i'm hungry which pizza can i make\"}}, {\"skill\": \"say\", \"params\": {\"input\": \"?recommend_pizza.recommendation\"}}]}",
-      "name": "assistant_mission",
-      "stamp": {
-        "sec": 1753971112,
-        "nanosec": 302027156
-      }
-    },
-    "1753971113304854955": {
-      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
-      "function": "log",
-      "level": 20,
-      "line": 1191,
-      "msg": "\u001b[96m[idle] skill: recommend_pizza\u001b[00m",
-      "name": "assistant_mission",
-      "stamp": {
-        "sec": 1753971113,
-        "nanosec": 304604648
-      }
-    },
-    "1753971113306242729": {
-      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
-      "function": "log",
-      "level": 20,
-      "line": 1191,
-      "msg": "\u001b[96m[idle] - expected_params: ['request']\u001b[00m",
-      "name": "assistant_mission",
-      "stamp": {
-        "sec": 1753971113,
-        "nanosec": 305497279
-      }
-    },
-    "1753971113307040654": {
-      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
-      "function": "log",
-      "level": 20,
-      "line": 1191,
-      "msg": "\u001b[96m[idle] - received_params: {'request': \"i'm hungry which pizza can i make\"}\u001b[00m",
-      "name": "assistant_mission",
-      "stamp": {
-        "sec": 1753971113,
-        "nanosec": 306931922
-      }
-    },
-    "1753971113307653495": {
-      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
-      "function": "log",
-      "level": 20,
-      "line": 1191,
-      "msg": "\u001b[96m[idle] skill: say\u001b[00m",
-      "name": "assistant_mission",
-      "stamp": {
-        "sec": 1753971113,
-        "nanosec": 307575444
-      }
-    },
-    "1753971113308165434": {
+    "1753971211519069205": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "log",
       "level": 20,
@@ -176,11 +8,227 @@
       "msg": "\u001b[96m[idle] - expected_params: ['input']\u001b[00m",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 308087540
+        "sec": 1753971204,
+        "nanosec": 597730465
       }
     },
-    "1753971113308735954": {
+    "1753971211519128847": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: trjqWAZuqV6Cb2Vh",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971204,
+        "nanosec": 702538856
+      }
+    },
+    "1753971211519142367": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill say (uuid trjqWAZuqV6Cb2Vh)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971204,
+        "nanosec": 717396483
+      }
+    },
+    "1753971211519153640": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <trjqWAZuqV6Cb2Vh> finished with result:<0 , >\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971207,
+        "nanosec": 10987937
+      }
+    },
+    "1753971211519164789": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Going to kitchen\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971207,
+        "nanosec": 111011437
+      }
+    },
+    "1753971211519177365": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: WiDPTrAP9Y3gbRUe",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971207,
+        "nanosec": 116457243
+      }
+    },
+    "1753971211519188428": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill navigate_to_zone (uuid WiDPTrAP9Y3gbRUe)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971207,
+        "nanosec": 211104863
+      }
+    },
+    "1753971211519199414": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <WiDPTrAP9Y3gbRUe> finished with result:<0 , Skill completed successfully>\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971207,
+        "nanosec": 211692035
+      }
+    },
+    "1753971211519209987": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Task achieved: go_to_kitchen\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971207,
+        "nanosec": 311038851
+      }
+    },
+    "1753971211519220626": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "handle_goal",
+      "level": 20,
+      "line": 87,
+      "msg": "SkillNavigateToZone received a new goal",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753971207,
+        "nanosec": 111327406
+      }
+    },
+    "1753971211519231319": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 153,
+      "msg": "Skill completed successfully",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753971207,
+        "nanosec": 127473666
+      }
+    },
+    "1753971225715425192": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_intent",
+      "level": 20,
+      "line": 513,
+      "msg": "Received an intent __intent_start_activity__ with data {\"goal\": \"can you recommend me a pizza\", \"suggested_action_plan\": [{\"skill\": \"recommend_pizza\", \"params\": {\"request\": \"Can you recommend me a pizza\"}}, {\"skill\": \"say\", \"params\": {\"input\": \"?recommend_pizza.recommendation\"}}]}",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971225,
+        "nanosec": 715324027
+      }
+    },
+    "1753971226142874668": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<xewhv> (param name: human_description_xewhv)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753971226,
+        "nanosec": 142751324
+      }
+    },
+    "1753971226326299235": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753971226,
+        "nanosec": 326218284
+      }
+    },
+    "1753971226720051799": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] skill: recommend_pizza\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971226,
+        "nanosec": 719631025
+      }
+    },
+    "1753971226720879700": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - expected_params: ['request']\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971226,
+        "nanosec": 720335197
+      }
+    },
+    "1753971226723473850": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - received_params: {'request': 'Can you recommend me a pizza'}\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971226,
+        "nanosec": 722318494
+      }
+    },
+    "1753971226724039772": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] skill: say\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971226,
+        "nanosec": 723883103
+      }
+    },
+    "1753971226725180409": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - expected_params: ['input']\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971226,
+        "nanosec": 725039481
+      }
+    },
+    "1753971226725802794": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "log",
       "level": 20,
@@ -188,35 +236,35 @@
       "msg": "\u001b[96m[idle] - received_params: {'input': '?recommend_pizza.recommendation'}\u001b[00m",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 308630710
+        "sec": 1753971226,
+        "nanosec": 725706306
       }
     },
-    "1753971113309215151": {
+    "1753971226727971685": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "log",
       "level": 20,
       "line": 1191,
-      "msg": "\u001b[96m[idle] Added task from intent: i'm hungry which pizza can i make\u001b[00m",
+      "msg": "\u001b[96m[idle] Added task from intent: can you recommend me a pizza\u001b[00m",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 309151442
+        "sec": 1753971226,
+        "nanosec": 727357600
       }
     },
-    "1753971113309750449": {
+    "1753971226730086772": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "on_intent",
       "level": 20,
       "line": 536,
-      "msg": "Task: i'm hungry which pizza can i make with id Ku3X6IamhOX14NvN \nSkills:\nSkill type: recommend_pizza\nSkill params: {'request': \"i'm hungry which pizza can i make\"}\nSkill uuid: None\nSkill handle: None\n--\nSkill type: say\nSkill params: {'input': '?recommend_pizza.recommendation'}\nSkill uuid: None\nSkill handle: None\n--\nParams to evaluate: {'?recommend_pizza.recommendation': None}",
+      "msg": "Task: can you recommend me a pizza with id hEFbZVGET6zlhEou \nSkills:\nSkill type: recommend_pizza\nSkill params: {'request': 'Can you recommend me a pizza'}\nSkill uuid: None\nSkill handle: None\n--\nSkill type: say\nSkill params: {'input': '?recommend_pizza.recommendation'}\nSkill uuid: None\nSkill handle: None\n--\nParams to evaluate: {'?recommend_pizza.recommendation': None}",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 309605746
+        "sec": 1753971226,
+        "nanosec": 729881227
       }
     },
-    "1753971113312652909": {
+    "1753971226828719883": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "chat_busy_response_callback",
       "level": 20,
@@ -224,23 +272,23 @@
       "msg": "Goal to start \"busy\" chat accepted",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 312576730
+        "sec": 1753971226,
+        "nanosec": 828406794
       }
     },
-    "1753971113401536517": {
+    "1753971226830952912": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "log",
       "level": 20,
       "line": 1191,
-      "msg": "\u001b[96m[idle] current task: i'm hungry which pizza can i make\u001b[00m",
+      "msg": "\u001b[96m[idle] current task: can you recommend me a pizza\u001b[00m",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 401366724
+        "sec": 1753971226,
+        "nanosec": 830724985
       }
     },
-    "1753971113406549869": {
+    "1753971226848175290": {
       "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
       "function": "run_skill",
       "level": 20,
@@ -248,47 +296,59 @@
       "msg": "...running the skill recommend_pizza",
       "name": "skill_recommend_pizza",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 406438076
+        "sec": 1753971226,
+        "nanosec": 848017275
       }
     },
-    "1753971113407269066": {
-      "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
-      "function": "run_skill",
-      "level": 20,
-      "line": 102,
-      "msg": "Request: i'm hungry which pizza can i make",
-      "name": "skill_recommend_pizza",
-      "stamp": {
-        "sec": 1753971113,
-        "nanosec": 407111684
-      }
-    },
-    "1753971113407818179": {
+    "1753971226856481146": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "on_set_goal",
       "level": 20,
       "line": 679,
-      "msg": "[on_set_goal] Goal id: jG1yrrco3lFAUVnm",
+      "msg": "[on_set_goal] Goal id: pw6erSKNDrZFYB8T",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 407751087
+        "sec": 1753971226,
+        "nanosec": 855176396
       }
     },
-    "1753971113413857267": {
+    "1753971226859965018": {
+      "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
+      "function": "run_skill",
+      "level": 20,
+      "line": 102,
+      "msg": "Request: Can you recommend me a pizza",
+      "name": "skill_recommend_pizza",
+      "stamp": {
+        "sec": 1753971226,
+        "nanosec": 859202162
+      }
+    },
+    "1753971226917182029": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill recommend_pizza (uuid pw6erSKNDrZFYB8T)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971226,
+        "nanosec": 916398252
+      }
+    },
+    "1753971226977331583": {
       "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
       "function": "run_skill",
       "level": 20,
       "line": 110,
-      "msg": "Ingredients: {'Flour': 'Yes', 'Yeast': 'Yes', 'Water': 'Yes', 'Salt': 'Yes', 'Olive Oil': 'Yes', 'Tomato': 'Yes', 'Mozzarella': 'Yes', 'Basil': 'No', 'Garlic': 'Yes', 'Oregano': 'Yes', 'Salami': 'No', 'Ham': 'Yes', 'Pineapple': 'Yes', 'Anchovies': 'No'}",
+      "msg": "Ingredients: {\"Flour\": \"Yes\", \"Yeast\": \"Yes\", \"Water\": \"Yes\", \"Salt\": \"Yes\", \"Olive Oil\": \"Yes\", \"Tomato\": \"Yes\", \"Mozzarella\": \"Yes\", \"Basil\": \"No\", \"Garlic\": \"Yes\", \"Oregano\": \"Yes\", \"Salami\": \"No\", \"Ham\": \"Yes\", \"Pineapple\": \"Yes\", \"Anchovies\": \"No\"}",
       "name": "skill_recommend_pizza",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 413776982
+        "sec": 1753971226,
+        "nanosec": 974882137
       }
     },
-    "1753971113413857268": {
+    "1753971226977331584": {
       "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
       "function": "run_skill",
       "level": 20,
@@ -296,23 +356,11 @@
       "msg": "Calculated recommendation: Hawaiian",
       "name": "skill_recommend_pizza",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 413776982
+        "sec": 1753971226,
+        "nanosec": 974882137
       }
     },
-    "1753971113501667417": {
-      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
-      "function": "log",
-      "level": 20,
-      "line": 1191,
-      "msg": "\u001b[96m[executing] Executing skill recommend_pizza (uuid jG1yrrco3lFAUVnm)\u001b[00m",
-      "name": "assistant_mission",
-      "stamp": {
-        "sec": 1753971113,
-        "nanosec": 501568389
-      }
-    },
-    "1753971113710947382": {
+    "1753971227285376655": {
       "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
       "function": "run_skill",
       "level": 20,
@@ -320,83 +368,155 @@
       "msg": "Generated natural language recommendation: I recommend the Hawaiian pizza.",
       "name": "skill_recommend_pizza",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 710833072
+        "sec": 1753971227,
+        "nanosec": 284581123
       }
     },
-    "1753971113802756997": {
+    "1753971227311676915": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "log",
       "level": 20,
       "line": 1191,
-      "msg": "\u001b[96m[executing] <jG1yrrco3lFAUVnm> finished with result:<0 , >\u001b[00m",
+      "msg": "\u001b[96m[executing] <pw6erSKNDrZFYB8T> finished with result:<0 , >\u001b[00m",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 802496699
+        "sec": 1753971227,
+        "nanosec": 311436017
       }
     },
-    "1753971113905920636": {
+    "1753971227416703400": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "on_set_goal",
       "level": 20,
       "line": 679,
-      "msg": "[on_set_goal] Goal id: xiXDgLRmzzljuWln",
+      "msg": "[on_set_goal] Goal id: P4E2sVN2JUDcpLsO",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971113,
-        "nanosec": 905805229
+        "sec": 1753971227,
+        "nanosec": 415380865
       }
     },
-    "1753971114001793172": {
+    "1753971227511293283": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "log",
       "level": 20,
       "line": 1191,
-      "msg": "\u001b[96m[executing] Executing skill say (uuid xiXDgLRmzzljuWln)\u001b[00m",
+      "msg": "\u001b[96m[executing] Executing skill say (uuid P4E2sVN2JUDcpLsO)\u001b[00m",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971114,
-        "nanosec": 1654985
+        "sec": 1753971227,
+        "nanosec": 511166634
       }
     },
-    "1753971116402649176": {
+    "1753971229910800897": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "log",
       "level": 20,
       "line": 1191,
-      "msg": "\u001b[96m[executing] <xiXDgLRmzzljuWln> finished with result:<0 , >\u001b[00m",
+      "msg": "\u001b[96m[executing] <P4E2sVN2JUDcpLsO> finished with result:<0 , >\u001b[00m",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971116,
-        "nanosec": 402415916
+        "sec": 1753971229,
+        "nanosec": 910654142
       }
     },
-    "1753971116501747159": {
+    "1753971230010959457": {
       "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
       "function": "log",
       "level": 20,
       "line": 1191,
-      "msg": "\u001b[96m[idle] Task achieved: i'm hungry which pizza can i make\u001b[00m",
+      "msg": "\u001b[96m[idle] Task achieved: can you recommend me a pizza\u001b[00m",
       "name": "assistant_mission",
       "stamp": {
-        "sec": 1753971116,
-        "nanosec": 501655248
+        "sec": 1753971230,
+        "nanosec": 10802219
+      }
+    },
+    "1753971231352034073": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered xewhv",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753971231,
+        "nanosec": 351930597
+      }
+    },
+    "1753971232749308799": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<wkahz> (param name: human_description_wkahz)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753971232,
+        "nanosec": 749129028
+      }
+    },
+    "1753971232927739945": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753971232,
+        "nanosec": 927639604
+      }
+    },
+    "1753971238308019871": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "unregister",
+      "level": 20,
+      "line": 459,
+      "msg": "unregistered wkahz",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753971238,
+        "nanosec": 307696407
+      }
+    },
+    "1753971241446868672": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 395,
+      "msg": "Setting URDF description for body<smtnw> (param name: human_description_smtnw)",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753971241,
+        "nanosec": 446735884
+      }
+    },
+    "1753971241618026503": {
+      "file": "/opt/pal/alum/lib/python3.10/site-packages/hri_body_detect/multibody_detector.py",
+      "function": "skeleton_generation",
+      "level": 20,
+      "line": 437,
+      "msg": "Spawning a instance of robot_state_publisher for this body...",
+      "name": "hri_body_detect",
+      "stamp": {
+        "sec": 1753971241,
+        "nanosec": 617911777
       }
     }
   },
   "/task_info": {
-    "1753971113401907741": {
+    "1753971226831657846": {
       "data": {
-        "task_id": "Ku3X6IamhOX14NvN",
-        "instruction": "i'm hungry which pizza can i make",
+        "task_id": "hEFbZVGET6zlhEou",
+        "instruction": "can you recommend me a pizza",
         "task_status": "valid",
         "task_error_msg": "",
         "skill_sequence": [
           {
             "skill": "recommend_pizza",
             "params": {
-              "request": "i'm hungry which pizza can i make"
+              "request": "Can you recommend me a pizza"
             },
             "status": "waiting",
             "error_msg": ""
@@ -412,17 +532,17 @@
         ]
       }
     },
-    "1753971113401973048": {
+    "1753971226831744449": {
       "data": {
-        "task_id": "Ku3X6IamhOX14NvN",
-        "instruction": "i'm hungry which pizza can i make",
+        "task_id": "hEFbZVGET6zlhEou",
+        "instruction": "can you recommend me a pizza",
         "task_status": "valid",
         "task_error_msg": "",
         "skill_sequence": [
           {
             "skill": "recommend_pizza",
             "params": {
-              "request": "i'm hungry which pizza can i make"
+              "request": "Can you recommend me a pizza"
             },
             "status": "Running",
             "error_msg": ""
@@ -438,17 +558,17 @@
         ]
       }
     },
-    "1753971113803363206": {
+    "1753971227312232750": {
       "data": {
-        "task_id": "Ku3X6IamhOX14NvN",
-        "instruction": "i'm hungry which pizza can i make",
+        "task_id": "hEFbZVGET6zlhEou",
+        "instruction": "can you recommend me a pizza",
         "task_status": "valid",
         "task_error_msg": "",
         "skill_sequence": [
           {
             "skill": "recommend_pizza",
             "params": {
-              "request": "i'm hungry which pizza can i make"
+              "request": "Can you recommend me a pizza"
             },
             "status": "succeeded",
             "error_msg": ""
@@ -464,17 +584,17 @@
         ]
       }
     },
-    "1753971113901317799": {
+    "1753971227410705761": {
       "data": {
-        "task_id": "Ku3X6IamhOX14NvN",
-        "instruction": "i'm hungry which pizza can i make",
+        "task_id": "hEFbZVGET6zlhEou",
+        "instruction": "can you recommend me a pizza",
         "task_status": "valid",
         "task_error_msg": "",
         "skill_sequence": [
           {
             "skill": "recommend_pizza",
             "params": {
-              "request": "i'm hungry which pizza can i make"
+              "request": "Can you recommend me a pizza"
             },
             "status": "succeeded",
             "error_msg": ""
@@ -490,17 +610,17 @@
         ]
       }
     },
-    "1753971116403155547": {
+    "1753971229911058870": {
       "data": {
-        "task_id": "Ku3X6IamhOX14NvN",
-        "instruction": "i'm hungry which pizza can i make",
+        "task_id": "hEFbZVGET6zlhEou",
+        "instruction": "can you recommend me a pizza",
         "task_status": "valid",
         "task_error_msg": "",
         "skill_sequence": [
           {
             "skill": "recommend_pizza",
             "params": {
-              "request": "i'm hungry which pizza can i make"
+              "request": "Can you recommend me a pizza"
             },
             "status": "succeeded",
             "error_msg": ""
