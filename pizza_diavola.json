@@ -1,0 +1,556 @@
+{
+  "/rosout": {
+    "1753971294825943696": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "chat_busy_response_callback",
+      "level": 20,
+      "line": 671,
+      "msg": "Goal to start \"busy\" chat accepted",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971290,
+        "nanosec": 102969921
+      }
+    },
+    "1753971294825999268": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] current task: go_to_kitchen\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971290,
+        "nanosec": 110876078
+      }
+    },
+    "1753971294826006440": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: ZnRiEKZ1MlJV1ATI",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971290,
+        "nanosec": 116263370
+      }
+    },
+    "1753971294826013285": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill say (uuid ZnRiEKZ1MlJV1ATI)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971290,
+        "nanosec": 218985940
+      }
+    },
+    "1753971294826018924": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <ZnRiEKZ1MlJV1ATI> finished with result:<0 , >\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971292,
+        "nanosec": 419095608
+      }
+    },
+    "1753971294826024575": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Going to kitchen\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971292,
+        "nanosec": 514390589
+      }
+    },
+    "1753971294826030323": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: la7fmNo9utH1LmUT",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971292,
+        "nanosec": 543370151
+      }
+    },
+    "1753971294826035587": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill navigate_to_zone (uuid la7fmNo9utH1LmUT)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971292,
+        "nanosec": 614061236
+      }
+    },
+    "1753971294826041652": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <la7fmNo9utH1LmUT> finished with result:<0 , Skill completed successfully>\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971292,
+        "nanosec": 615769202
+      }
+    },
+    "1753971294826057089": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Task achieved: go_to_kitchen\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971292,
+        "nanosec": 715322291
+      }
+    },
+    "1753971294971107653": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "handle_goal",
+      "level": 20,
+      "line": 87,
+      "msg": "SkillNavigateToZone received a new goal",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753971292,
+        "nanosec": 514918096
+      }
+    },
+    "1753971294971160294": {
+      "file": "/home/user/exchange/alum/deploying_ws/src/skill_navigate_to_zone/src/skill_navigate_to_zone.cpp",
+      "function": "navigate_to_zone",
+      "level": 20,
+      "line": 153,
+      "msg": "Skill completed successfully",
+      "name": "skill_navigate_to_zone",
+      "stamp": {
+        "sec": 1753971292,
+        "nanosec": 587614871
+      }
+    },
+    "1753971312723257352": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_intent",
+      "level": 20,
+      "line": 513,
+      "msg": "Received an intent __intent_start_activity__ with data {\"goal\": \"with the ingredients i have what is the best pizza i can make\", \"suggested_action_plan\": [{\"skill\": \"recommend_pizza\", \"params\": {\"request\": \"With the ingredients I have, what is the best pizza I can make?\"}}, {\"skill\": \"say\", \"params\": {\"input\": \"?recommend_pizza.recommendation\"}}]}",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971312,
+        "nanosec": 723138229
+      }
+    },
+    "1753971313728778124": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] skill: recommend_pizza\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 728606568
+      }
+    },
+    "1753971313729307906": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - expected_params: ['request']\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 729207804
+      }
+    },
+    "1753971313737812637": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - received_params: {'request': 'With the ingredients I have, what is the best pizza I can make?'}\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 732783987
+      }
+    },
+    "1753971313739433870": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] skill: say\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 739268351
+      }
+    },
+    "1753971313740041292": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - expected_params: ['input']\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 739869353
+      }
+    },
+    "1753971313740563326": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] - received_params: {'input': '?recommend_pizza.recommendation'}\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 740464109
+      }
+    },
+    "1753971313741279653": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Added task from intent: with the ingredients i have what is the best pizza i can make\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 741046870
+      }
+    },
+    "1753971313741852792": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_intent",
+      "level": 20,
+      "line": 536,
+      "msg": "Task: with the ingredients i have what is the best pizza i can make with id 3LubaDQCmZxgj5tC \nSkills:\nSkill type: recommend_pizza\nSkill params: {'request': 'With the ingredients I have, what is the best pizza I can make?'}\nSkill uuid: None\nSkill handle: None\n--\nSkill type: say\nSkill params: {'input': '?recommend_pizza.recommendation'}\nSkill uuid: None\nSkill handle: None\n--\nParams to evaluate: {'?recommend_pizza.recommendation': None}",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 741754605
+      }
+    },
+    "1753971313749491151": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "chat_busy_response_callback",
+      "level": 20,
+      "line": 671,
+      "msg": "Goal to start \"busy\" chat accepted",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 749322074
+      }
+    },
+    "1753971313811366581": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] current task: with the ingredients i have what is the best pizza i can make\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 811197247
+      }
+    },
+    "1753971313817202346": {
+      "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
+      "function": "run_skill",
+      "level": 20,
+      "line": 100,
+      "msg": "...running the skill recommend_pizza",
+      "name": "skill_recommend_pizza",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 817060471
+      }
+    },
+    "1753971313817759643": {
+      "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
+      "function": "run_skill",
+      "level": 20,
+      "line": 102,
+      "msg": "Request: With the ingredients I have, what is the best pizza I can make?",
+      "name": "skill_recommend_pizza",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 817606654
+      }
+    },
+    "1753971313819795432": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: 9JDSQ2ln2yCgOKU9",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 819591498
+      }
+    },
+    "1753971313823950073": {
+      "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
+      "function": "run_skill",
+      "level": 20,
+      "line": 110,
+      "msg": "Ingredients: {'Flour': 'Yes', 'Yeast': 'Yes', 'Water': 'Yes', 'Salt': 'Yes', 'Olive Oil': 'Yes', 'Tomato': 'Yes', 'Mozzarella': 'Yes', 'Basil': 'Yes', 'Garlic': 'Yes', 'Oregano': 'Yes', 'Salami': 'Yes', 'Ham': 'No', 'Pineapple': 'No', 'Anchovies': 'Yes'}",
+      "name": "skill_recommend_pizza",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 823882758
+      }
+    },
+    "1753971313823950074": {
+      "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
+      "function": "run_skill",
+      "level": 20,
+      "line": 110,
+      "msg": "Calculated recommendation: Diavola",
+      "name": "skill_recommend_pizza",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 823882758
+      }
+    },
+    "1753971313909913202": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill recommend_pizza (uuid 9JDSQ2ln2yCgOKU9)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971313,
+        "nanosec": 909792111
+      }
+    },
+    "1753971314140053405": {
+      "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
+      "function": "run_skill",
+      "level": 20,
+      "line": 115,
+      "msg": "Generated natural language recommendation: I recommend the Diavola pizza.",
+      "name": "skill_recommend_pizza",
+      "stamp": {
+        "sec": 1753971314,
+        "nanosec": 139963801
+      }
+    },
+    "1753971314210337044": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <9JDSQ2ln2yCgOKU9> finished with result:<0 , >\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971314,
+        "nanosec": 210220324
+      }
+    },
+    "1753971314314979680": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "on_set_goal",
+      "level": 20,
+      "line": 679,
+      "msg": "[on_set_goal] Goal id: 3er0S3WCY5t5GTMR",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971314,
+        "nanosec": 314873993
+      }
+    },
+    "1753971314410118485": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] Executing skill say (uuid 3er0S3WCY5t5GTMR)\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971314,
+        "nanosec": 410011808
+      }
+    },
+    "1753971316813934812": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[executing] <3er0S3WCY5t5GTMR> finished with result:<0 , >\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971316,
+        "nanosec": 813287575
+      }
+    },
+    "1753971316914206803": {
+      "file": "/home/pal/deployed_ws/assistant_mission/lib/python3.10/site-packages/assistant_mission/mission_controller.py",
+      "function": "log",
+      "level": 20,
+      "line": 1191,
+      "msg": "\u001b[96m[idle] Task achieved: with the ingredients i have what is the best pizza i can make\u001b[00m",
+      "name": "assistant_mission",
+      "stamp": {
+        "sec": 1753971316,
+        "nanosec": 913985354
+      }
+    }
+  },
+  "/task_info": {
+    "1753971313811749524": {
+      "data": {
+        "task_id": "3LubaDQCmZxgj5tC",
+        "instruction": "with the ingredients i have what is the best pizza i can make",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "recommend_pizza",
+            "params": {
+              "request": "With the ingredients I have, what is the best pizza I can make?"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "?recommend_pizza.recommendation"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753971313811825946": {
+      "data": {
+        "task_id": "3LubaDQCmZxgj5tC",
+        "instruction": "with the ingredients i have what is the best pizza i can make",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "recommend_pizza",
+            "params": {
+              "request": "With the ingredients I have, what is the best pizza I can make?"
+            },
+            "status": "Running",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "?recommend_pizza.recommendation"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753971314210700362": {
+      "data": {
+        "task_id": "3LubaDQCmZxgj5tC",
+        "instruction": "with the ingredients i have what is the best pizza i can make",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "recommend_pizza",
+            "params": {
+              "request": "With the ingredients I have, what is the best pizza I can make?"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "?recommend_pizza.recommendation"
+            },
+            "status": "waiting",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753971314309457094": {
+      "data": {
+        "task_id": "3LubaDQCmZxgj5tC",
+        "instruction": "with the ingredients i have what is the best pizza i can make",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "recommend_pizza",
+            "params": {
+              "request": "With the ingredients I have, what is the best pizza I can make?"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "?recommend_pizza.recommendation"
+            },
+            "status": "Running",
+            "error_msg": ""
+          }
+        ]
+      }
+    },
+    "1753971316815182777": {
+      "data": {
+        "task_id": "3LubaDQCmZxgj5tC",
+        "instruction": "with the ingredients i have what is the best pizza i can make",
+        "task_status": "valid",
+        "task_error_msg": "",
+        "skill_sequence": [
+          {
+            "skill": "recommend_pizza",
+            "params": {
+              "request": "With the ingredients I have, what is the best pizza I can make?"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          },
+          {
+            "skill": "say",
+            "params": {
+              "input": "?recommend_pizza.recommendation"
+            },
+            "status": "succeeded",
+            "error_msg": ""
+          }
+        ]
+      }
+    }
+  }
+}

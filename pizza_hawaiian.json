@@ -276,6 +276,18 @@
         "nanosec": 407751087
       }
     },
+    "1753971113413857267": {
+      "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
+      "function": "run_skill",
+      "level": 20,
+      "line": 110,
+      "msg": "Ingredients: {'Flour': 'Yes', 'Yeast': 'Yes', 'Water': 'Yes', 'Salt': 'Yes', 'Olive Oil': 'Yes', 'Tomato': 'Yes', 'Mozzarella': 'Yes', 'Basil': 'No', 'Garlic': 'Yes', 'Oregano': 'Yes', 'Salami': 'No', 'Ham': 'Yes', 'Pineapple': 'Yes', 'Anchovies': 'No'}",
+      "name": "skill_recommend_pizza",
+      "stamp": {
+        "sec": 1753971113,
+        "nanosec": 413776982
+      }
+    },
     "1753971113413857268": {
       "file": "/home/pal/deployed_ws/skill_recommend_pizza/lib/python3.10/site-packages/skill_recommend_pizza/skill_impl.py",
       "function": "run_skill",
